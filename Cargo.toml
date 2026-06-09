@@ -1,10 +1,10 @@
 [package]
-authors = ["Nautilus Cyberneering <info@nautilus-cyberneering.de>, Mick van Dijke <mick@dutchbits.nl>"]
+authors = [ "Nautilus Cyberneering <info@nautilus-cyberneering.de>, Mick van Dijke <mick@dutchbits.nl>" ]
 description = "A library to provide error decorator with the location and the source of the original error."
 documentation = "https://docs.rs/torrust-located-error/"
 edition = "2024"
 homepage = "https://torrust.com/"
-keywords = ["errors", "helper", "library"]
+keywords = [ "errors", "helper", "library" ]
 license = "AGPL-3.0-only"
 name = "torrust-located-error"
 publish = true
